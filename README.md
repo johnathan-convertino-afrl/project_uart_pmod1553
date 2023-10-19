@@ -37,6 +37,7 @@ see https://github.com/johnathan-convertino-afrl/open1553 for more info on the p
   - Icarus
 
 ## Quick Start
+0. Clonse this repo, and run 'git submodule update --init --recursive' in the root to pull all sub repos.
 1. Install Vivado 2022.2.2
 2. Install build essentials package for Ubuntu.
 3. From the root of the HDL directory you may run the following build commands.
