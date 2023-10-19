@@ -19,10 +19,12 @@ see https://github.com/johnathan-convertino-afrl/open1553 for more info on the p
 
 ## RELEASE VERSIONS
 ### Current
-  - release_1553_v3 (releases are tags)
-    * Changed to UART only fusesoc build setup.
+  - release_1553_v3.0.1 (releases are tags)
+    * Changed name from uart_pmod1553 to project
 
 ### Past (see old repo)
+  - release_1553_v3 (releases are tags)
+    * Changed to UART only fusesoc build setup.
   - release_1553_v2 (releases are tags)
     * added analog switch for proper 1553 multiplexing
     * added en_diff for switch toggling
