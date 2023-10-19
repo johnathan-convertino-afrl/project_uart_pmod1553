@@ -1,0 +1,12 @@
+[submodule "ip"]
+	path = ip
+	url = https://github.com/johnathan-convertino-afrl/IP.git
+[submodule "uart_pmod1553"]
+	path = uart_pmod1553
+	url = https://github.com/johnathan-convertino-afrl/uart_pmod1553.git
+[submodule "sim"]
+	path = sim
+	url = https://github.com/johnathan-convertino-afrl/SIM.git
+[submodule "util"]
+	path = util
+	url = https://github.com/johnathan-convertino-afrl/UTIL.git
