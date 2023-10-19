@@ -2,7 +2,7 @@
 	path = ip
 	url = https://github.com/johnathan-convertino-afrl/IP.git
 [submodule "uart_pmod1553"]
-	path = uart_pmod1553
+	path = project
 	url = https://github.com/johnathan-convertino-afrl/uart_pmod1553.git
 [submodule "sim"]
 	path = sim
